@@ -2,7 +2,6 @@ package date_2023_10_18;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class SumOfNumber {
     public static void main(String[] args) throws IOException {
