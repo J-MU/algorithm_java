@@ -17,3 +17,10 @@ T
 $src/date_2023_10_22/PrimeNumber.java,d\9\d943cb78a12e4dd3c89061406db487ffa5e10f55
 S
 #src/date_2023_10_22/SnailTower.java,a\3\a3ef6b876841564095709863bc617be25e75feb8
+R
+"src/date_2023_10_22/StackImpl.java,b\5\b50f259f5098acb30609d8380aa87f9cbf2a0978
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+Q
+!src/date_2023_10_23/AcmHotel.java,5\b\5bc41a66d6aeaef16ca341f795baea026c1ccdfa
