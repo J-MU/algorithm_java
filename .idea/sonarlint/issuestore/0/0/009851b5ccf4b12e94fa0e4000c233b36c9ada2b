@@ -1,0 +1,11 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÁós8ùğŸç¶1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­àÓ±üÿÿÿÿ8ùğŸç¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åŒØ¿8úğŸç¶1
+G	java:S106"+Replace this use of System.out by a logger.(ôÚŠ¤8ŒñŸç¶1
+H
+java:S21753"+A "HashSet<List>" cannot contain a "int[]".(øÇ³â8ñŸç¶1
+G	java:S106G"+Replace this use of System.out by a logger.(º¼É°8‘ñŸç¶1
+L	java:S106J"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘ñŸç¶1
+f
+java:S1128"DRemove this unused import 'com.sun.jdi.PathSearchingVirtualMachine'.(Ù¶©™úÿÿÿÿ8Äô¡ç¶1

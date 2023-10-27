@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÓ·”ÿÿÿÿÿ8Ï››â¶1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œåœøùÿÿÿÿ8Ð››â¶1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þæÊÐ8Ð››â¶1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¸ÿÄÿÿÿÿÿ8Ð››â¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Û£ð8Ñ››â¶1
+u
+java:S1450"XRemove the "targetNum" field and declare it as a local variable in the relevant methods.(ˆ–öê8å››â¶1
+G	java:S106"+Replace this use of System.out by a logger.(ôÚŠ¤8ç››â¶1
+V
+java:S1854"9Remove this useless assignment to local variable "Bsize".(þæÊÐ8ç››â¶1
+[
+java:S1854"9Remove this useless assignment to local variable "Asize".(ÊÓ·”ÿÿÿÿÿ8è››â¶1
+L
+java:S1481"*Remove this unused "Asize" local variable.(ÊÓ·”ÿÿÿÿÿ8è››â¶1
+G
+java:S1481"*Remove this unused "Bsize" local variable.(þæÊÐ8é››â¶1
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ðùþùýÿÿÿÿ8é››â¶1

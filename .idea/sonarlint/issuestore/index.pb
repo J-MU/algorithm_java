@@ -24,3 +24,23 @@ R
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 Q
 !src/date_2023_10_23/AcmHotel.java,5\b\5bc41a66d6aeaef16ca341f795baea026c1ccdfa
+O
+src/date_2023_10_23/Sprout.java,e\7\e7bd6c11329803e09bd97db0e87f5824f5221a5a
+[
++src/date_2023_10_23/CharacterAndString.java,9\e\9e9ad367165e0b1a5ba32924f452cb4fd35e0117
+Z
+*src/date_2023_10_23/SnowWithePrincess.java,e\2\e2a597df48a73f83642c8fa362e0967df0103908
+^
+.src/date_2023_10_26/PartialNumberArraySum.java,8\8\885db51bec459992e8a1bca413ea8a546fa4655d
+_
+/src/date_2023_10_26/PartialNumberArraySum2.java,9\3\936089b6e7536f5fbf80281606e388e12dab9cd2
+S
+#src/date_2023_10_26/PartialSum.java,1\4\14d2eebfcc5c5577f67f2df141a388ad6e086a8f
+[
++src/date_2023_10_26/TwoArrayPartialSum.java,9\6\96bbebadf98add949adde7951b7e2b601f65e803
+X
+(src/date_2023_10_27/NumberBoardJump.java,6\3\63e00049605f96b26fe22f5ca239c08976fb2cb6
+T
+$src/date_2023_10_25/Combination.java,8\f\8f563d131fa45654916d590426e4f35b48029621
+\
+,src/date_2023_10_27/IceCreamCombination.java,0\0\009851b5ccf4b12e94fa0e4000c233b36c9ada2b
