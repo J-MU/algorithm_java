@@ -1,7 +1,0 @@
-
-6
-java:S1700"Rename field "stack"(ãÏ¤¥úÿÿÿÿ8Ä“ñºµ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Žìâ¡8Ì“ñºµ1
-G	java:S106
-"+Replace this use of System.out by a logger.(ôÚŠ¤8…”ñºµ1
-L	java:S106*"+Replace this use of System.out by a logger.(–úé“ùÿÿÿÿ8•”ñºµ1

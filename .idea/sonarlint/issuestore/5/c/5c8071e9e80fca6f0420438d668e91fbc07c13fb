@@ -1,13 +1,0 @@
-
-e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÁós
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­àÓ±üÿÿÿÿ
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ñÍâýÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’£Áÿüÿÿÿÿ
-b
-java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßè‘Ì
-b
-java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûä™°
-f
-java:S1450"PRemove the "B" field and declare it as a local variable in the relevant methods.(Ûä™°
-@	java:S106	"+Replace this use of System.out by a logger.(ôÚŠ¤
-Q	java:S1257"<This block of commented-out lines of code should be removed.(»ìë

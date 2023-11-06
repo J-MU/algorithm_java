@@ -1,16 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Û£ð8ÂÜ”Ö¶1
-T
-java:S2589-"7Remove this expression which always evaluates to "true"(Åïõ­8„™ÅÖ¶1
-Y
-java:S2589&"7Remove this expression which always evaluates to "true"(ý½Ë›þÿÿÿÿ8ðî®Ö¶1
-y
-java:S1450
-"WRemove the "sequence" field and declare it as a local variable in the relevant methods.(þïæýÿÿÿÿÿ8ôÜ”Ö¶1
-z
-java:S1450"XRemove the "targetSum" field and declare it as a local variable in the relevant methods.(éÖÐßúÿÿÿÿ8öÐ©Ö¶1
-G	java:S106"+Replace this use of System.out by a logger.(ôÚŠ¤8ûÜ”Ö¶1
-]	java:S125"<This block of commented-out lines of code should be removed.(æÃ€°þÿÿÿÿ8ÃŒ¹Ö¶1
-]	java:S125"<This block of commented-out lines of code should be removed.(žñÃóÿÿÿÿÿ8þÜ”Ö¶1
-X	java:S125"<This block of commented-out lines of code should be removed.(Í§ˆÏ8ÿÜ”Ö¶1
-]	java:S125="<This block of commented-out lines of code should be removed.(§ðËÿÿÿÿÿ8öÐ©Ö¶1

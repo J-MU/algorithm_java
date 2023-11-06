@@ -1,13 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Û£ğ8Š‰·Ñ¶1
-h
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–x8–‰·Ñ¶1
-k
-java:S3008"NRename this field "Sum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤Âˆ8–‰·Ñ¶1
-l
-java:S1450"PRemove the "N" field and declare it as a local variable in the relevant methods.(ÿ–x8–‰·Ñ¶1
-G	java:S106	"+Replace this use of System.out by a logger.(ôÚŠ¤8¨‰·Ñ¶1
-X	java:S1252"<This block of commented-out lines of code should be removed.(ˆ¬â²8¢êÄÑ¶1
-]	java:S125?"<This block of commented-out lines of code should be removed.(ÜùŠÙıÿÿÿÿ8ÅÆÄÑ¶1
-A
-java:S1068"%Remove this unused "N" private field.(ÿ–x8¹‰·Ñ¶1

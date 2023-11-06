@@ -1,25 +1,0 @@
-
-z	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8”†·™¸1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½¡¢úÿÿÿÿÿ8”†·™¸1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’£Áÿüÿÿÿÿ8œ†·™¸1
-D
-java:S2189-""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Å†·™¸1
-h
-java:S3008
-"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–x8Å†·™¸1
-i
-java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŞ¾Ú8Å†·™¸1
-m
-java:S1450"PRemove the "K" field and declare it as a local variable in the relevant methods.(ŒŞ¾Ú8Å†·™¸1
-l
-java:S1450
-"PRemove the "N" field and declare it as a local variable in the relevant methods.(ÿ–x8Å†·™¸1
-G	java:S106"+Replace this use of System.out by a logger.(ôÚŠ¤8Î†·™¸1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œû¿Ø8Î†·™¸1
-J	java:S1081")Either remove or fill this block of code.(ÓÌ»üÿÿÿÿ8Ş†·™¸1
-G	java:S106S"+Replace this use of System.out by a logger.(ß–İ8æ†·™¸1
-L	java:S106U"+Replace this use of System.out by a logger.(„±³ÿÿÿÿÿ8æ†·™¸1
-L	java:S106W"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8æ†·™¸1
-L	java:S106Y"+Replace this use of System.out by a logger.(îŸˆêıÿÿÿÿ8æ†·™¸1
-G	java:S106Z"+Replace this use of System.out by a logger.(Û²ˆ¿8æ†·™¸1
